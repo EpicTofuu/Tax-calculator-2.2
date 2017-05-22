@@ -1,0 +1,8 @@
+G:\Projects\Visual Studio\Tax calculator v2.2\Tax calculator v2.2\bin\Debug\Tax calculator v2.2.exe.config
+G:\Projects\Visual Studio\Tax calculator v2.2\Tax calculator v2.2\bin\Debug\Tax calculator v2.2.exe
+G:\Projects\Visual Studio\Tax calculator v2.2\Tax calculator v2.2\bin\Debug\Tax calculator v2.2.pdb
+G:\Projects\Visual Studio\Tax calculator v2.2\Tax calculator v2.2\obj\Debug\Tax_calculator_v2._2.Form1.resources
+G:\Projects\Visual Studio\Tax calculator v2.2\Tax calculator v2.2\obj\Debug\Tax_calculator_v2._2.Properties.Resources.resources
+G:\Projects\Visual Studio\Tax calculator v2.2\Tax calculator v2.2\obj\Debug\Tax calculator v2.2.csproj.GenerateResource.Cache
+G:\Projects\Visual Studio\Tax calculator v2.2\Tax calculator v2.2\obj\Debug\Tax calculator v2.2.exe
+G:\Projects\Visual Studio\Tax calculator v2.2\Tax calculator v2.2\obj\Debug\Tax calculator v2.2.pdb
